@@ -1,0 +1,1 @@
+console.log(`secret env: ${process.env.CODESPACE_SECRET_ENV}`);
